@@ -117,9 +117,9 @@ namespace Лабораторная_работа_1
                     Console.WriteLine("Результат: " + rez3);
 
                     Console.WriteLine("\n 3.5 'Длина числа' Введите целое число");
-                    int r;
-                    r = int.Parse(Console.ReadLine());
-                    long rez5 = p.numLen(r);
+                    long r;
+                    r = long.Parse(Console.ReadLine());
+                    int rez5 = p.numLen(r);
                     Console.WriteLine("Результат: " + rez5);
 
                     Console.WriteLine("\n 3.7 'Квадрат' Введите число Х (это будет размер квадрата)");
