@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfToy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Toy>
+    <Name>Конструктор большой - Пирамиды</Name>
+    <Price>750</Price>
+    <MinAge>3</MinAge>
+    <MaxAge>12</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Пупс Никита</Name>
+    <Price>1000</Price>
+    <MinAge>3</MinAge>
+    <MaxAge>6</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Пупс Нина</Name>
+    <Price>1000</Price>
+    <MinAge>3</MinAge>
+    <MaxAge>6</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Попрыгун</Name>
+    <Price>50</Price>
+    <MinAge>1</MinAge>
+    <MaxAge>14</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Набор мебели - кухня</Name>
+    <Price>3000</Price>
+    <MinAge>3</MinAge>
+    <MaxAge>14</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Мозаика</Name>
+    <Price>500</Price>
+    <MinAge>6</MinAge>
+    <MaxAge>12</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Мяч</Name>
+    <Price>150</Price>
+    <MinAge>1</MinAge>
+    <MaxAge>12</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Робот-трансформер</Name>
+    <Price>2500</Price>
+    <MinAge>6</MinAge>
+    <MaxAge>14</MaxAge>
+  </Toy>
+</ArrayOfToy>
